@@ -58,6 +58,7 @@ import {
 import { Link } from "react-router-dom";
 import { Helmet } from "react-helmet-async";
 import SectorsSection from "./sectorsSection";
+import MathCupPopup from "./MathCupPopup";
 // import NMFPopup from "./NMFPopup";
 // import { Helmet } from "react-helmet-async";
 
@@ -438,6 +439,7 @@ const Home = () => {
         </div>
       }
       {/* <NMFPopup /> */}
+      <MathCupPopup />
     </div>
   );
 };

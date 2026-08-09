@@ -1,0 +1,897 @@
+[
+  {
+    "rank": 1,
+    "name": "Raqin Shahrier Bin Kabir",
+    "institution": "St. Joseph Higher Secondary School",
+    "class": "11",
+    "correctAnswers": 19,
+    "honourableMentions": 2,
+    "totalPoints": 159,
+    "rounds": {
+      "groupStage": {
+        "correct": 6,
+        "hm": 1
+      },
+      "roundOf32": {
+        "correct": 3,
+        "hm": 0
+      },
+      "roundOf16": {
+        "correct": 1,
+        "hm": 0
+      },
+      "quarterFinal": {
+        "correct": 2,
+        "hm": 0
+      },
+      "final": {
+        "points": 54,
+        "find": [
+          5,
+          5,
+          10,
+          7
+        ],
+        "proof": [
+          13,
+          14
+        ],
+        "correct": 6
+      }
+    }
+  },
+  {
+    "rank": 2,
+    "name": "Tanvir Mahtab",
+    "institution": "Sristy College of Tangail",
+    "class": "ssc26",
+    "correctAnswers": 16,
+    "honourableMentions": 1,
+    "totalPoints": 116,
+    "rounds": {
+      "groupStage": {
+        "correct": 7,
+        "hm": 0
+      },
+      "roundOf32": {
+        "correct": 2,
+        "hm": 0
+      },
+      "roundOf16": {
+        "correct": 1,
+        "hm": 0
+      },
+      "quarterFinal": {
+        "correct": 2,
+        "hm": 0
+      },
+      "final": {
+        "points": 34,
+        "find": [
+          5,
+          5,
+          10,
+          0
+        ],
+        "proof": [
+          14,
+          0
+        ],
+        "correct": 4
+      }
+    }
+  },
+  {
+    "rank": 3,
+    "name": "Ashikuzzaman Leon",
+    "institution": "Notre Dame College",
+    "class": "11",
+    "correctAnswers": 13,
+    "honourableMentions": 1,
+    "totalPoints": 115.5,
+    "rounds": {
+      "groupStage": {
+        "correct": 2,
+        "hm": 1
+      },
+      "roundOf32": {
+        "correct": 2,
+        "hm": 0
+      },
+      "roundOf16": {
+        "correct": 0,
+        "hm": 0
+      },
+      "quarterFinal": {
+        "correct": 2,
+        "hm": 0
+      },
+      "final": {
+        "points": 42.5,
+        "find": [
+          5,
+          5,
+          10,
+          4.5
+        ],
+        "proof": [
+          14,
+          4
+        ],
+        "correct": 6
+      }
+    }
+  },
+  {
+    "rank": 4,
+    "name": "Rahid Azad Ahan",
+    "institution": "Khulna Public College",
+    "class": "9",
+    "correctAnswers": 17,
+    "honourableMentions": 0,
+    "totalPoints": 115,
+    "rounds": {
+      "groupStage": {
+        "correct": 7,
+        "hm": 0
+      },
+      "roundOf32": {
+        "correct": 2,
+        "hm": 0
+      },
+      "roundOf16": {
+        "correct": 1,
+        "hm": 0
+      },
+      "quarterFinal": {
+        "correct": 2,
+        "hm": 0
+      },
+      "final": {
+        "points": 34,
+        "find": [
+          5,
+          5,
+          10,
+          0
+        ],
+        "proof": [
+          0,
+          14
+        ],
+        "correct": 4
+      }
+    }
+  },
+  {
+    "rank": 5,
+    "name": "Nahiyan Al Nuhin",
+    "institution": "Adarsha School Narayanganj",
+    "class": "10",
+    "correctAnswers": 11,
+    "honourableMentions": 2,
+    "totalPoints": 80,
+    "rounds": {
+      "groupStage": {
+        "correct": 3,
+        "hm": 2
+      },
+      "roundOf32": {
+        "correct": 1,
+        "hm": 0
+      },
+      "roundOf16": {
+        "correct": 1,
+        "hm": 0
+      },
+      "quarterFinal": {
+        "correct": 0,
+        "hm": 0
+      },
+      "final": {
+        "points": 39,
+        "find": [
+          5,
+          5,
+          10,
+          0
+        ],
+        "proof": [
+          15,
+          4
+        ],
+        "correct": 5
+      }
+    }
+  },
+  {
+    "rank": 6,
+    "name": "Md. Nazmus Shakib",
+    "institution": "Notre Dame College",
+    "class": "11",
+    "correctAnswers": 9,
+    "honourableMentions": 1,
+    "totalPoints": 72,
+    "rounds": {
+      "groupStage": {
+        "correct": 4,
+        "hm": 0
+      },
+      "roundOf32": {
+        "correct": 0,
+        "hm": 0
+      },
+      "roundOf16": {
+        "correct": 0,
+        "hm": 1
+      },
+      "quarterFinal": {
+        "correct": 1,
+        "hm": 0
+      },
+      "final": {
+        "points": 15,
+        "find": [
+          5,
+          5,
+          0,
+          0
+        ],
+        "proof": [
+          5,
+          0
+        ],
+        "correct": 3
+      }
+    }
+  },
+  {
+    "rank": 7,
+    "name": "Ahnaf Rafid",
+    "institution": "Notre Dame College",
+    "class": "11",
+    "correctAnswers": 9,
+    "honourableMentions": 3,
+    "totalPoints": 49,
+    "rounds": {
+      "groupStage": {
+        "correct": 4,
+        "hm": 1
+      },
+      "roundOf32": {
+        "correct": 1,
+        "hm": 0
+      },
+      "roundOf16": {
+        "correct": 1,
+        "hm": 0
+      },
+      "quarterFinal": {
+        "correct": 0,
+        "hm": 1
+      },
+      "final": {
+        "points": 12,
+        "find": [
+          5,
+          5,
+          0,
+          0
+        ],
+        "proof": [
+          2,
+          0
+        ],
+        "correct": 3
+      }
+    }
+  },
+  {
+    "rank": 8,
+    "name": "Junayed Farhan",
+    "institution": "Rajuk Uttara Model College",
+    "class": "11",
+    "correctAnswers": 8,
+    "honourableMentions": 0,
+    "totalPoints": 38,
+    "rounds": {
+      "groupStage": {
+        "correct": 5,
+        "hm": 0
+      },
+      "roundOf32": {
+        "correct": 1,
+        "hm": 0
+      },
+      "roundOf16": {
+        "correct": 0,
+        "hm": 0
+      },
+      "quarterFinal": {
+        "correct": 1,
+        "hm": 0
+      },
+      "final": {
+        "points": 5,
+        "find": [
+          5,
+          0,
+          0,
+          0
+        ],
+        "proof": [
+          0,
+          0
+        ],
+        "correct": 1
+      }
+    }
+  },
+  {
+    "rank": 9,
+    "name": "Sajid Hasan Shuvo",
+    "institution": "Polic Lines High School",
+    "class": "9",
+    "correctAnswers": 8,
+    "honourableMentions": 0,
+    "totalPoints": 27,
+    "rounds": {
+      "groupStage": {
+        "correct": 7,
+        "hm": 0
+      },
+      "roundOf32": {
+        "correct": 1,
+        "hm": 0
+      },
+      "roundOf16": {
+        "correct": 0,
+        "hm": 0
+      },
+      "quarterFinal": {
+        "correct": 0,
+        "hm": 0
+      }
+    }
+  },
+  {
+    "rank": 10,
+    "name": "Omar Faruque Joy",
+    "institution": "South Point School",
+    "class": "ssc 26",
+    "correctAnswers": 6,
+    "honourableMentions": 1,
+    "totalPoints": 22,
+    "rounds": {
+      "groupStage": {
+        "correct": 5,
+        "hm": 1
+      },
+      "roundOf32": {
+        "correct": 1,
+        "hm": 0
+      },
+      "roundOf16": {
+        "correct": 0,
+        "hm": 0
+      },
+      "quarterFinal": {
+        "correct": 0,
+        "hm": 0
+      }
+    }
+  },
+  {
+    "rank": 11,
+    "name": "Sabiha Akter Nib",
+    "institution": "Rajshahi Cant. Board School and College",
+    "class": "7",
+    "correctAnswers": 2,
+    "honourableMentions": 0,
+    "totalPoints": 18,
+    "rounds": {
+      "groupStage": {
+        "correct": 1,
+        "hm": 0
+      },
+      "roundOf32": {
+        "correct": 0,
+        "hm": 0
+      },
+      "roundOf16": {
+        "correct": 0,
+        "hm": 0
+      },
+      "quarterFinal": {
+        "correct": 0,
+        "hm": 0
+      }
+    }
+  },
+  {
+    "rank": 12,
+    "name": "Asshad Bin Zaman",
+    "institution": "Monipur HIgh School and College",
+    "class": "ssc26",
+    "correctAnswers": 4,
+    "honourableMentions": 0,
+    "totalPoints": 15,
+    "rounds": {
+      "groupStage": {
+        "correct": 3,
+        "hm": 0
+      },
+      "roundOf32": {
+        "correct": 1,
+        "hm": 0
+      },
+      "roundOf16": {
+        "correct": 0,
+        "hm": 0
+      },
+      "quarterFinal": {
+        "correct": 0,
+        "hm": 0
+      }
+    }
+  },
+  {
+    "rank": 13,
+    "name": "Md. Sahil Hasan",
+    "institution": "Notre Dame College",
+    "class": "11",
+    "correctAnswers": 3,
+    "honourableMentions": 0,
+    "totalPoints": 9,
+    "rounds": {
+      "groupStage": {
+        "correct": 3,
+        "hm": 0
+      },
+      "roundOf32": {
+        "correct": 0,
+        "hm": 0
+      },
+      "roundOf16": {
+        "correct": 0,
+        "hm": 0
+      },
+      "quarterFinal": {
+        "correct": 0,
+        "hm": 0
+      }
+    }
+  },
+  {
+    "rank": 13,
+    "name": "Atika Sanjida Ohona",
+    "institution": "Ideal School and College",
+    "class": "ssc26",
+    "correctAnswers": 2,
+    "honourableMentions": 0,
+    "totalPoints": 9,
+    "rounds": {
+      "groupStage": {
+        "correct": 1,
+        "hm": 0
+      },
+      "roundOf32": {
+        "correct": 1,
+        "hm": 0
+      },
+      "roundOf16": {
+        "correct": 0,
+        "hm": 0
+      },
+      "quarterFinal": {
+        "correct": 0,
+        "hm": 0
+      }
+    }
+  },
+  {
+    "rank": 15,
+    "name": "Tazim Al Mawn",
+    "institution": "Notre Dame College",
+    "class": "11",
+    "correctAnswers": 1,
+    "honourableMentions": 2,
+    "totalPoints": 7,
+    "rounds": {
+      "groupStage": {
+        "correct": 1,
+        "hm": 1
+      },
+      "roundOf32": {
+        "correct": 0,
+        "hm": 0
+      },
+      "roundOf16": {
+        "correct": 0,
+        "hm": 1
+      },
+      "quarterFinal": {
+        "correct": 0,
+        "hm": 0
+      }
+    }
+  },
+  {
+    "rank": 16,
+    "name": "K.M. Abdullah Al-Noman",
+    "institution": "Notre Dame College",
+    "class": "11",
+    "correctAnswers": 2,
+    "honourableMentions": 0,
+    "totalPoints": 6,
+    "rounds": {
+      "groupStage": {
+        "correct": 2,
+        "hm": 0
+      },
+      "roundOf32": {
+        "correct": 0,
+        "hm": 0
+      },
+      "roundOf16": {
+        "correct": 0,
+        "hm": 0
+      },
+      "quarterFinal": {
+        "correct": 0,
+        "hm": 0
+      }
+    }
+  },
+  {
+    "rank": 16,
+    "name": "Muhammad Saifan Ali",
+    "institution": "Premier School Dhaka",
+    "class": "11",
+    "correctAnswers": 2,
+    "honourableMentions": 0,
+    "totalPoints": 6,
+    "rounds": {
+      "groupStage": {
+        "correct": 2,
+        "hm": 0
+      },
+      "roundOf32": {
+        "correct": 0,
+        "hm": 0
+      },
+      "roundOf16": {
+        "correct": 0,
+        "hm": 0
+      },
+      "quarterFinal": {
+        "correct": 0,
+        "hm": 0
+      }
+    }
+  },
+  {
+    "rank": 16,
+    "name": "Nafiz Hasan",
+    "institution": "Notre Dame College",
+    "class": "11",
+    "correctAnswers": 2,
+    "honourableMentions": 0,
+    "totalPoints": 6,
+    "rounds": {
+      "groupStage": {
+        "correct": 2,
+        "hm": 0
+      },
+      "roundOf32": {
+        "correct": 0,
+        "hm": 0
+      },
+      "roundOf16": {
+        "correct": 0,
+        "hm": 0
+      },
+      "quarterFinal": {
+        "correct": 0,
+        "hm": 0
+      }
+    }
+  },
+  {
+    "rank": 16,
+    "name": "Rimon Ahsan",
+    "institution": "Notre Dame College",
+    "class": "12",
+    "correctAnswers": 2,
+    "honourableMentions": 0,
+    "totalPoints": 6,
+    "rounds": {
+      "groupStage": {
+        "correct": 2,
+        "hm": 0
+      },
+      "roundOf32": {
+        "correct": 0,
+        "hm": 0
+      },
+      "roundOf16": {
+        "correct": 0,
+        "hm": 0
+      },
+      "quarterFinal": {
+        "correct": 0,
+        "hm": 0
+      }
+    }
+  },
+  {
+    "rank": 16,
+    "name": "Samrat Barai",
+    "institution": "Bakal Niranjan Bairagi High School",
+    "class": "ssc26",
+    "correctAnswers": 2,
+    "honourableMentions": 0,
+    "totalPoints": 6,
+    "rounds": {
+      "groupStage": {
+        "correct": 2,
+        "hm": 0
+      },
+      "roundOf32": {
+        "correct": 0,
+        "hm": 0
+      },
+      "roundOf16": {
+        "correct": 0,
+        "hm": 0
+      },
+      "quarterFinal": {
+        "correct": 0,
+        "hm": 0
+      }
+    }
+  },
+  {
+    "rank": 16,
+    "name": "Saudipto Roy",
+    "institution": "St Gregory's High School and College",
+    "class": "9",
+    "correctAnswers": 1,
+    "honourableMentions": 1,
+    "totalPoints": 6,
+    "rounds": {
+      "groupStage": {
+        "correct": 1,
+        "hm": 0
+      },
+      "roundOf32": {
+        "correct": 0,
+        "hm": 0
+      },
+      "roundOf16": {
+        "correct": 0,
+        "hm": 1
+      },
+      "quarterFinal": {
+        "correct": 0,
+        "hm": 0
+      }
+    }
+  },
+  {
+    "rank": 16,
+    "name": "Kazi Tahseen Alam",
+    "institution": "St Joseph High School, Khulna",
+    "class": "",
+    "correctAnswers": 1,
+    "honourableMentions": 0,
+    "totalPoints": 6,
+    "rounds": {
+      "groupStage": {
+        "correct": 0,
+        "hm": 0
+      },
+      "roundOf32": {
+        "correct": 1,
+        "hm": 0
+      },
+      "roundOf16": {
+        "correct": 0,
+        "hm": 0
+      },
+      "quarterFinal": {
+        "correct": 0,
+        "hm": 0
+      }
+    }
+  },
+  {
+    "rank": 23,
+    "name": "Ahanad Bin Hossain",
+    "institution": "Adamjee Cantonment Public School",
+    "class": "10",
+    "correctAnswers": 1,
+    "honourableMentions": 0,
+    "totalPoints": 3,
+    "rounds": {
+      "groupStage": {
+        "correct": 1,
+        "hm": 0
+      },
+      "roundOf32": {
+        "correct": 0,
+        "hm": 0
+      },
+      "roundOf16": {
+        "correct": 0,
+        "hm": 0
+      },
+      "quarterFinal": {
+        "correct": 0,
+        "hm": 0
+      }
+    }
+  },
+  {
+    "rank": 23,
+    "name": "Amina Bushra",
+    "institution": "Govt Prafulla Chandra College",
+    "class": "11",
+    "correctAnswers": 1,
+    "honourableMentions": 0,
+    "totalPoints": 3,
+    "rounds": {
+      "groupStage": {
+        "correct": 1,
+        "hm": 0
+      },
+      "roundOf32": {
+        "correct": 0,
+        "hm": 0
+      },
+      "roundOf16": {
+        "correct": 0,
+        "hm": 0
+      },
+      "quarterFinal": {
+        "correct": 0,
+        "hm": 0
+      }
+    }
+  },
+  {
+    "rank": 23,
+    "name": "Eshan Abrar",
+    "institution": "Notre Dame College",
+    "class": "11",
+    "correctAnswers": 1,
+    "honourableMentions": 0,
+    "totalPoints": 3,
+    "rounds": {
+      "groupStage": {
+        "correct": 1,
+        "hm": 0
+      },
+      "roundOf32": {
+        "correct": 0,
+        "hm": 0
+      },
+      "roundOf16": {
+        "correct": 0,
+        "hm": 0
+      },
+      "quarterFinal": {
+        "correct": 0,
+        "hm": 0
+      }
+    }
+  },
+  {
+    "rank": 23,
+    "name": "Joyanta Kumar Halder",
+    "institution": "Adamjee Cantonment Public School",
+    "class": "ssc26",
+    "correctAnswers": 1,
+    "honourableMentions": 0,
+    "totalPoints": 3,
+    "rounds": {
+      "groupStage": {
+        "correct": 1,
+        "hm": 0
+      },
+      "roundOf32": {
+        "correct": 0,
+        "hm": 0
+      },
+      "roundOf16": {
+        "correct": 0,
+        "hm": 0
+      },
+      "quarterFinal": {
+        "correct": 0,
+        "hm": 0
+      }
+    }
+  },
+  {
+    "rank": 23,
+    "name": "MD Himel Khan",
+    "institution": "Mamun Mahmud Police Line College",
+    "class": "11",
+    "correctAnswers": 1,
+    "honourableMentions": 0,
+    "totalPoints": 3,
+    "rounds": {
+      "groupStage": {
+        "correct": 1,
+        "hm": 0
+      },
+      "roundOf32": {
+        "correct": 0,
+        "hm": 0
+      },
+      "roundOf16": {
+        "correct": 0,
+        "hm": 0
+      },
+      "quarterFinal": {
+        "correct": 0,
+        "hm": 0
+      }
+    }
+  },
+  {
+    "rank": 23,
+    "name": "Omar Faruk",
+    "institution": "Cambrian School and College",
+    "class": "12",
+    "correctAnswers": 1,
+    "honourableMentions": 0,
+    "totalPoints": 3,
+    "rounds": {
+      "groupStage": {
+        "correct": 1,
+        "hm": 0
+      },
+      "roundOf32": {
+        "correct": 0,
+        "hm": 0
+      },
+      "roundOf16": {
+        "correct": 0,
+        "hm": 0
+      },
+      "quarterFinal": {
+        "correct": 0,
+        "hm": 0
+      }
+    }
+  },
+  {
+    "rank": 29,
+    "name": "Md Raghib Raonaq Khan",
+    "institution": "Shamsul Haque Khan College",
+    "class": "ssc26",
+    "correctAnswers": 0,
+    "honourableMentions": 1,
+    "totalPoints": 1,
+    "rounds": {
+      "groupStage": {
+        "correct": 0,
+        "hm": 1
+      },
+      "roundOf32": {
+        "correct": 0,
+        "hm": 0
+      },
+      "roundOf16": {
+        "correct": 0,
+        "hm": 0
+      },
+      "quarterFinal": {
+        "correct": 0,
+        "hm": 0
+      }
+    }
+  }
+]

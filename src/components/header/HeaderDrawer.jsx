@@ -10,7 +10,12 @@ import {
 import GlassyDrawer from "../ui/GlassyDrawer";
 import { Link as RouterLink } from "react-router-dom";
 import { useTheme } from "@emotion/react";
-import { ShiningButton, StyledLink, Styleda } from "../styles/Elements.style";
+import {
+  HighlightNavLink,
+  ShiningButton,
+  StyledLink,
+  Styleda,
+} from "../styles/Elements.style";
 import MyIconButton from "../ui/IconButton";
 import { useRecoilState } from "recoil";
 import darkMode from "../../store/atoms/themeAtom";
@@ -26,9 +31,20 @@ const HeaderDrawer = ({ mobileOpen, handleDrawerToggle, window, navItems }) => {
         {Object.keys(navItems).map((item) => (
           <ListItem key={item} style={{ textAlign: "center" }}>
             <ListItemText style={{ fontSize: "1.4rem" }}>
-              <StyledLink component={RouterLink} to={navItems[item]}>
-                {item}
-              </StyledLink>
+              {item === "Math Cup" ? (
+                <HighlightNavLink
+                  component={RouterLink}
+                  to={navItems[item]}
+                  style={{ fontSize: "1rem" }}
+                >
+                  <i className="ri-trophy-line" />
+                  {item}
+                </HighlightNavLink>
+              ) : (
+                <StyledLink component={RouterLink} to={navItems[item]}>
+                  {item}
+                </StyledLink>
+              )}
               {/* <Styleda key={item} href={navItems[item]}>
                 {item}
               </Styleda> */}

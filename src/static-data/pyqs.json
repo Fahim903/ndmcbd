@@ -833,6 +833,23 @@
     ]
   },
   {
+    "section": "Other Competitions",
+    "questions": [
+      {
+        "id": 139,
+        "title": "NDMC Math Cup Problem Archive",
+        "pdfUrl": "https://ndmcbd.org/pdfs/Questions/Other/MathCupArchive.pdf",
+        "thumbnail": "https://res.cloudinary.com/dh4j8hdty/image/upload/q_auto,f_auto,w_800/mathcupq_vjs5j7"
+      },
+      {
+        "id": 140,
+        "title": "NDMC Math Cup Solution Archive",
+        "pdfUrl": "https://ndmcbd.org/pdfs/Questions/Other/MathCupSolution.pdf",
+        "thumbnail": "https://res.cloudinary.com/dh4j8hdty/image/upload/q_auto,f_auto,w_800/mathcupsol_p0h317"
+      }
+    ]
+  },
+  {
     "section": "Collaboration & Partnership",
     "questions": [
       {

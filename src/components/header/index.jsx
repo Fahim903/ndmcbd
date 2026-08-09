@@ -13,6 +13,7 @@ import HeaderDrawer from "./HeaderDrawer";
 import {
   ShiningButton,
   FlexedBox,
+  HighlightNavLink,
   Image,
   NavMenuLink,
   StyledButton,
@@ -45,6 +46,7 @@ const navItems = {
   Executives: "/executives",
   // Membership: "/membership",
   Contact: "/contact",
+  "Math Cup": "/math-cup",
 };
 
 function HideOnScroll(props) {
@@ -110,15 +112,26 @@ const Header = (props) => {
                 </HamburgerContainer>
               </NavIconBox>
               <NavMenuContainer>
-                {Object.keys(navItems).map((item) => (
-                  <NavMenuLink
-                    key={item}
-                    component={RouterLink}
-                    to={navItems[item]}
-                  >
-                    {item}
-                  </NavMenuLink>
-                ))}
+                {Object.keys(navItems).map((item) =>
+                  item === "Math Cup" ? (
+                    <HighlightNavLink
+                      key={item}
+                      component={RouterLink}
+                      to={navItems[item]}
+                    >
+                      <Icon icon={"trophy"} icontype={"line"} size={0.9} />
+                      {item}
+                    </HighlightNavLink>
+                  ) : (
+                    <NavMenuLink
+                      key={item}
+                      component={RouterLink}
+                      to={navItems[item]}
+                    >
+                      {item}
+                    </NavMenuLink>
+                  )
+                )}
                 <MyIconButton
                   onClick={() =>
                     setMode(appMode === "light" ? "dark" : "light")

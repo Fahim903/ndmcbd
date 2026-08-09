@@ -26,11 +26,41 @@ const variants = {
     bgColor: "#d3efdf",
     darkbg: "#1b2d29",
   },
+  info: {
+    color: "#0dcaf0",
+    darkcolor: "#31d2f2",
+    bgColor: "#cff4fc",
+    darkbg: "#055160",
+  },
+  warning: {
+    color: "#ffc107",
+    darkcolor: "#ffcd39",
+    bgColor: "#fff3cd",
+    darkbg: "#664d03",
+  },
   danger: {
     color: "#ff3030",
     darkcolor: "#ff3030",
     bgColor: "#f8d1c8",
     darkbg: "#3e2f2c",
+  },
+  gold: {
+    color: "#b8860b",
+    darkcolor: "#ffd700",
+    bgColor: "#fff8dc",
+    darkbg: "#3b2f0b",
+  },
+  silver: {
+    color: "#708090",
+    darkcolor: "#c0c0c0",
+    bgColor: "#f5f5f5",
+    darkbg: "#2f3436",
+  },
+  bronze: {
+    color: "#8b4513",
+    darkcolor: "#cd7f32",
+    bgColor: "#fdf5e6",
+    darkbg: "#4a2e1b",
   },
 };
 const StyledLabel = styled(Typography)`

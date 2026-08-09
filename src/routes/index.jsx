@@ -9,6 +9,7 @@ import Contact from "../pages/contact";
 import CertificateValidation from "../pages/certificate-validation";
 import NotFound from "../pages/notFound";
 import Resources from "../pages/resources";
+import MathCup from "../pages/math-cup";
 // import Login from "../pages/login";
 // import FestRegistration from "../pages/fest-registration";
 import DevelopersPage from "../pages/developers";
@@ -35,6 +36,7 @@ const AppRouter = () => {
       <Route path="/developers" element={<DevelopersPage />} />
       <Route path="/publication" element={<RedirectPublication />} />
       <Route path="/resources" element={<Resources />} />
+      <Route path="/math-cup" element={<MathCup />} />
       <Route path="/certificate" element={<CertificateValidation />} />
       {/*<Route path="/nmf/register/:ca_ref" element={<Solo />} /> */}
       {/*<Route path="/nmf/ca" element={<CA />} /> */}

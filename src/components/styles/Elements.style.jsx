@@ -452,6 +452,29 @@ export const NavMenuLink = styled(Link)`
   }
 `;
 
+export const HighlightNavLink = styled(Link)`
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 6px 14px;
+  border-radius: 30px;
+  color: #fff !important;
+  text-decoration: none;
+  font-weight: 700;
+  background-image: ${(props) => {
+    const color1 = props.theme.palette.primary.midLight;
+    const color2 = props.theme.palette.primary.deepDark;
+    return `linear-gradient(45deg, ${color1} 9%, ${color2} 90%)`;
+  }};
+  box-shadow: 0 3px 10px rgba(120, 111, 239, 0.4);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(120, 111, 239, 0.5);
+  }
+`;
+
 export const Styleda = styled.a`
   text-decoration: none;
   color: ${(props) => props.theme.palette.text.main};

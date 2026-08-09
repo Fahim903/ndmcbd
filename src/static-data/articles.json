@@ -455,6 +455,13 @@
         "thumbnail": "https://res.cloudinary.com/dh4j8hdty/image/upload/q_auto,f_auto,w_800/v1774244194/integration_qa2lws.png"
       },
       {
+        "id": 76,
+        "title": "Algebraic Substitution for Fractional Integrands with Radicals",
+        "author": "Mohammad Sakib Shahriar, Fahim Sadat",
+        "pdfUrl": "https://ndmcbd.org/pdfs/Articles/Calculus/Algebraic Substitution for Fractional Integrands with Radicals.pdf",
+        "thumbnail": "https://res.cloudinary.com/dh4j8hdty/image/upload/q_auto,f_auto,w_800/intwithradicals_hcpmp2"
+      },
+      {
         "id": 58,
         "title": "Feynman Technique of Integration (Bangla)",
         "author": "Muntasir Khan Rafi",
@@ -516,6 +523,13 @@
     "section": "Others",
     "articles": [
       {
+        "id": 73,
+        "title": "Making Sense of Statistics",
+        "author": "Mohammad Sakib Shahriar",
+        "pdfUrl": "https://ndmcbd.org/pdfs/Articles/Making%20Sense%20of%20Statistics.pdf",
+        "thumbnail": "https://res.cloudinary.com/dh4j8hdty/image/upload/q_auto,f_auto,w_800/statistics_okt6dn"
+      },
+      {
         "id": 56,
         "title": "Earthquake: A Mathematical Analysis",
         "author": "Mohammad Sakib Shahriar",
@@ -535,6 +549,20 @@
         "author": "Md Iftiar Hasan Jihad",
         "pdfUrl": "https://ndmcbd.org/pdfs/Articles/inversematrix.pdf",
         "thumbnail": "https://res.cloudinary.com/dh4j8hdty/image/upload/q_auto,f_auto,w_800/inversematrix_i7wqun"
+      },
+      {
+        "id": 74,
+        "title": "Magnus Effect",
+        "author": "Md Raihan Tamzid",
+        "pdfUrl": "https://ndmcbd.org/pdfs/Articles/MagnusEffect.pdf",
+        "thumbnail": "https://res.cloudinary.com/dh4j8hdty/image/upload/q_auto,f_auto,w_800/magnuseffect_m22310"
+      },
+      {
+        "id": 75,
+        "title": "History of Pi",
+        "author": "Fahim Sadat",
+        "pdfUrl": "https://ndmcbd.org/pdfs/Articles/HistoryofPi.pdf",
+        "thumbnail": "https://res.cloudinary.com/dh4j8hdty/image/upload/q_auto,f_auto,w_800/pi_mz1glf"
       }
     ]
   }
